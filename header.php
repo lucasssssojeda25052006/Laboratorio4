@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Laboratorio 3</title>
+    <title>Laboratorio 4</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
